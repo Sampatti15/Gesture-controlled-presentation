@@ -21,7 +21,7 @@
 ## Installation
 
  - Clone this repository:
-   git clone https://github.com/your-username/gesture-controlled-presentation.git 
+   git clone https://github.com/Samaptti15/gesture-controlled-presentation.git 
    cd gesture-controlled-presentation
 
 - Install dependencies:
