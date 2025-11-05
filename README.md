@@ -12,7 +12,7 @@
 
 - 🔴 Pointer Mode: Highlight content using your index & middle fingers.
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Python 3.8+
 - OpenCV – Image processing and webcam handling
 - cvzone – Simplified hand tracking module
@@ -20,20 +20,18 @@
 
 ## Installation
 
-# Clone this repository:
-  git clone https://github.com/your-username/gesture-controlled-presentation.git 
-  cd gesture-controlled-presentation
+ - Clone this repository:
+   git clone https://github.com/your-username/gesture-controlled-presentation.git 
+   cd gesture-controlled-presentation
 
-# Install dependencies:
+- Install dependencies:
   pip install opencv-python cvzone numpy mediapipe
 
-# Set your slides folder path in the script:
+- Set your slides folder path in the script:
   FolderPath = r'C:\gesture controlled ppt\presentation'
 
-# Run the app:
+- Run the app:
   python presentation_control.py
 
 
-Run the app:
 
-python presentation_control.py
